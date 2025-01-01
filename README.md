@@ -1,9 +1,9 @@
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://markovate.com/wp-content/uploads/2022/08/top-MERN-Stack.webp" alt="harsh3822" /></a> </p>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://markovate.com/wp-content/uploads/2022/08/top-MERN-Stack.webp"  alt="harsh3822" height="60%" width="60%" /></a> 
 
 <h1 align="center">Hi 👋, I'm Ahire Harshvardhan </h1>
 <h3 align="center">A passionate Fullstrack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="" alt="harsh3822" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
 - 🌱 I’m currently learning **c++ lang**
 
