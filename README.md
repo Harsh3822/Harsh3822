@@ -1,4 +1,4 @@
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://markovate.com/wp-content/uploads/2022/08/top-MERN-Stack.webp"  alt="harsh3822" height="60%" width="100%" /></a> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"></a> 
 
 <h1 align="center">Hi 👋, I'm Ahire Harshvardhan </h1>
 <h3 align="center">A passionate Fullstrack developer from India</h3>
