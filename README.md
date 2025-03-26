@@ -1,7 +1,8 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"></a> 
 
 <h1 align="center">Hi 👋, I'm Ahire Harshvardhan </h1>
-<h3 align="center">A passionate Fullstrack developer from India</h3>
+<h3 align="center">A passionate Front-End Developer
+ from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
