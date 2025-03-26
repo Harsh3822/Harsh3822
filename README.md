@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
-- 🌱 I’m currently learning **c++ lang**
+- 🌱 I have completed my Front-End Developer Course
 
 - 📫 How to reach me **5100harshahire3822@gmail.com**
 
