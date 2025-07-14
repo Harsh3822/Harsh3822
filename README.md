@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **5100harshahire3822@gmail.com**
 - 📄 My Resume
-[Ahire HarshvardhanResume.pdf](https://drive.google.com/file/d/1opXZF5rijH-vqAsHHZ4N-OKkqEkKyQuz/view?usp=drive_link)
+[Ahire HarshvardhanResume.pdf](https://drive.google.com/file/d/1XsrAsa4LEWAbRZpB9xTxaXDckxRgq_Uq/view)
 
 - 🌐 Live Portfolio
 [Visit Portfolio Website](https://portfolio-harsh3822s-projects.vercel.app/)
